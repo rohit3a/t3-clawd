@@ -1,5 +1,7 @@
 # T3 Clawd
 
+[![Featured on Agent Skins](https://agentskins.app/badge/t3/t3-clawd.svg)](https://agentskins.app/skins/t3/t3-clawd)
+
 A Claude-inspired theme for T3 Code.
 
 ![T3 Clawd](media/poster.png)
