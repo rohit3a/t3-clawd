@@ -40,7 +40,7 @@ Dark and light mode are both included.
 
 ![Before and after](media/before-after.png)
 
-[Watch the v1.1 film](media/t3-clawd-v1.1-film.mp4) for every fix, before and after, or the original [launch film](media/t3-clawd-film.mp4). Every frame of both was rendered from HTML, and the music was synthesized from scratch.
+[Watch the launch film](media/t3-clawd-film.mp4). Every frame of it was rendered from HTML, and the music was synthesized from scratch.
 
 ## Notes
 
