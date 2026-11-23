@@ -41,7 +41,7 @@ Dark and light mode are both included.
 
 ## Notes
 
-- Tested on T3 Code Nightly `0.1.10-nightly.20261115`. The theme styles the app through its internal attributes, so a T3 Code update may break a piece or two. If something looks off, open an issue.
+- Tested on T3 Code Nightly `0.1.11-nightly.20261119`, checked against `0.1.12-nightly.20261123`. The theme styles the app through its internal attributes, so a T3 Code update may break a piece or two. If something looks off, open an issue.
 - Previews come from the launch film and use demo data.
 - Unofficial. Not affiliated with Anthropic or T3. Claude is a trademark of Anthropic.
 
