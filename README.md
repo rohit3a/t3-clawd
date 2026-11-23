@@ -18,6 +18,9 @@ One theme file. No fork, no source changes. Built entirely on T3 Code's theme sy
 - Effort levels as a segmented bar
 - One-line project picker with device tags
 - Clay buttons and switches everywhere
+- Pinned and Recents headings in the sidebar
+- Model picker that keeps a fixed size, scrolls long lists like Devin's, and marks the active provider
+- Matching toasts, menus and text selection
 
 ## Install
 
